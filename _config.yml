@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             Cre8iveroom
+email:             cre8iveroom@gmail.com
+description:       Experiments by Cre8iveroom
+author:            Cre8iveroom
 baseurl:           "/cre8iveroom"
 url:               "https://cre8iveroom.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  Cre8iveroom
+github_username:   Cre8iveroom
+facebook_username: Cre8iveroom
 
 # Build settings
 markdown:          kramdown
