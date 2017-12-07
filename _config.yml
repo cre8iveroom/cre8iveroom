@@ -2,8 +2,8 @@ title:             Cre8iveroom
 email:             cre8iveroom@gmail.com
 description:       Experiments by Cre8iveroom
 author:            Cre8iveroom
-baseurl:           "/cre8iveroom"
-url:               "https://cre8iveroom.github.io"
+baseurl:           ""
+url:               "https://cre8iveroom.com"
 
 # Social Profiles
 twitter_username:  Cre8iveroom
